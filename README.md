@@ -1,2 +1,1 @@
-# tradingview-btc
-Tradingview BTC
+# Tradingview BTC
